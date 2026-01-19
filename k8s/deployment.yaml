@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: sachinn9700/gitops-nginx-demo:v17
+        image: sachinn9700/gitops-nginx-demo:v18
         ports: 
         - containerPort: 80
